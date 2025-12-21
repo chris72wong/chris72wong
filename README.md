@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Computer science student on a journey of learning
+Computer science student
 
 <!--
 **chris72wong/chris72wong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
