@@ -1,18 +1,19 @@
-## Hi there 👋
+# About
 
-I am a computer science student 😄
+👋 Hey, I'm Chris, a Computer Science student building practical software projects and learning full-stack development.
 
-<!--
-**chris72wong/chris72wong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work primarily with Java, TypeScript, JavaScript, and React, with projects ranging from financial planning tools to travel and fitness applications.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💰 **Summit** — Personal finance planning and forecasting application. (Java, Spring Boot, PostgreSQL)
+- ✈️ **Travel Dashboard** — Travel dashboard combining useful trip information and external data sources in one place. (Next.js, TypeScript)
+- 🎿 **Ski Dashboard** — Ski trip dashboard with weather, border wait times, and travel information. (Next.js, TypeScript)
+- 🏋️ **Exercise App** — Workout and exercise tracking web application. (React, JavaScript)
+
+# Tech & Interests
+
+- 💻 **Languages:** Java, TypeScript, JavaScript
+- 🛠️ **Technologies:** React, Next.js, Spring Boot, PostgreSQL, REST APIs, Git
+- 🔭 **Focus:** Full-stack development, backend development, and software engineering
+- ❤️ **Interests:** Practical software, web applications, AI, and robotics
