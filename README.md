@@ -1,4 +1,4 @@
-# About
+## About
 
 👋 Hey, I'm Chris, a Computer Science student building practical software projects and learning full-stack development.
 
@@ -11,7 +11,7 @@ I work primarily with Java, TypeScript, JavaScript, and React, with projects ran
 - 🎿 **Ski Dashboard** — Ski trip dashboard with weather, border wait times, and travel information. (Next.js, TypeScript)
 - 🏋️ **Exercise App** — Workout and exercise tracking web application. (React, JavaScript)
 
-# Tech & Interests
+## Tech & Interests
 
 - 💻 **Languages:** Java, TypeScript, JavaScript
 - 🛠️ **Technologies:** React, Next.js, Spring Boot, PostgreSQL, REST APIs, Git
