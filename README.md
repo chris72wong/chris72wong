@@ -13,7 +13,7 @@ I work primarily with Java, TypeScript, JavaScript, and React, with projects ran
 
 ## Tech & Interests
 
-- 💻 **Languages:** Java, TypeScript, JavaScript
-- 🛠️ **Technologies:** React, Next.js, Spring Boot, PostgreSQL, REST APIs, Git
-- 🔭 **Focus:** Full-stack development, backend development, and software engineering
-- ❤️ **Interests:** Practical software, web applications, AI, and robotics
+- **Languages:** Java, TypeScript, JavaScript
+- **Technologies:** React, Next.js, Spring Boot, PostgreSQL, REST APIs, Git
+- **Focus:** Full-stack development, backend development, and software engineering
+- **Interests:** Practical software, web applications, AI, and robotics
