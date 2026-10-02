@@ -6,10 +6,10 @@ I work primarily with Java, TypeScript, JavaScript, and React, with projects ran
 
 ## Featured Projects
 
-- 💰 **Summit** — Personal finance planning and forecasting application. (Java, Spring Boot, PostgreSQL)
-- ✈️ **Travel Dashboard** — Travel dashboard combining useful trip information and external data sources in one place. (Next.js, TypeScript)
-- 🎿 **Ski Dashboard** — Ski trip dashboard with weather, border wait times, and travel information. (Next.js, TypeScript)
-- 🏋️ **Exercise App** — Workout and exercise tracking web application. (React, JavaScript)
+- **Summit** — Personal finance planning and forecasting application. (Java, Spring Boot, PostgreSQL)
+- **Travel Dashboard** — Travel dashboard combining useful trip information and external data sources in one place. (Next.js, TypeScript)
+- **Ski Dashboard** — Ski trip dashboard with weather, border wait times, and travel information. (Next.js, TypeScript)
+- **Exercise App** — Workout and exercise tracking web application. (React, JavaScript)
 
 ## Tech & Interests
 
