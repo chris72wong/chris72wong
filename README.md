@@ -1,6 +1,6 @@
 ## About
 
-👋 Hey, I'm Chris, a Computer Science student building practical software projects and learning full-stack development.
+Hi, I'm Chris, a Computer Science student building practical software projects and learning full-stack development.
 
 I work primarily with Java, TypeScript, JavaScript, and React, with projects ranging from financial planning tools to travel and fitness applications.
 
